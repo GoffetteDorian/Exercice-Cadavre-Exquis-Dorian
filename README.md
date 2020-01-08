@@ -5,4 +5,7 @@
 > Soudain vint le premier commit, qui une fois push annihila l'utopie d'un code parfait.  
 > Pour notre jeune codeur, ce fût l'échec de trop.  
 > Il sombra peu à peu dans une dépression profonde,  
-> et se mit à coder en scratch afin de ne plus revivre de telles angoisses.
+> et se mit à coder en scratch afin de ne plus revivre de telles angoisses.  
+> Ses amis se moqua donc de lui, car coder en scratch c'est un peu la honte fréro.  
+Vexé il se rendit sur le Darkweb, dans le but ultime d'anéantir les rageux qui le rabaissent sans cesse. Il tomba assez vite sur une excellente annonce...  
+
