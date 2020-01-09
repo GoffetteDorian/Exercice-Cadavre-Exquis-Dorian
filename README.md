@@ -14,3 +14,4 @@
  programmation au choix. Mais malheureusement pour lui, il
  n'avait pas l'argent nécessaire pour réaliser cette transaction.
 Omaewa mou shindeiru ( ajout bawer )
+modification Geoffrey
