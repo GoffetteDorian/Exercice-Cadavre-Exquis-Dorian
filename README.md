@@ -9,5 +9,8 @@
 > Ses amis se moquèrent donc de lui, car coder en scratch c'est un peu la honte frérot.  
 > Vexé, il se rendit sur le Darkweb, dans le but ultime d'anéantir les rageux qui le rabaissent sans cesse.
 > Il tomba assez vite sur une excellente annonce...
-
+ Cette annonce proposait d'acheter pour la maudique somme de 1000euros
+ une potion magique permettant d'apprendre un language de
+ programmation au choix. Mais malheureusement pour lui, il
+ n'avait pas l'argent nécessaire pour réaliser cette transaction.
 Omaewa mou shindeiru ( ajout bawer )
