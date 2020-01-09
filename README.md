@@ -9,3 +9,6 @@
 > Ses amis se moquèrent donc de lui, car coder en scratch c'est un peu la honte frérot.  
 > Vexé, il se rendit sur le Darkweb, dans le but ultime d'anéantir les rageux qui le rabaissent sans cesse.
 > Il tomba assez vite sur une excellente annonce...
+Celle-ci proposait d'acheter un produit pour la maudique somme
+de 1000€. Elle permettait à celui qui la boit, d'apprendre un nouveau language de
+programmation. 
